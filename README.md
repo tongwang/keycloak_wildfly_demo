@@ -44,7 +44,7 @@ Under realm `demo`, create a new client:
 
 
 ### Setup Wildfly for Keycloak
-Download WildFly OpenID Connect adapter distribution from [keycloak.org](keycloak.org) and unpack it into folder `keycloak-wildfly-adapter-dist-3.1.0.Final`
+Download WildFly OpenID Connect adapter distribution from [keycloak.org](keycloak.org) and unpack it into folder _keycloak-wildfly-adapter-dist-3.1.0.Final_
 
 Install the OpenID Connect adapter:
 
