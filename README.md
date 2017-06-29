@@ -76,7 +76,7 @@ with
     </secure-deployment>
 </subsystem>
 ```
-, which is copied and modified from client `vanilla`'s Installation tab in Keycloak.
+, which is copied and modified from client _vanilla_'s Installation tab in Keycloak.
 
 Now you can log in Vanilla app with Keycloak.
 
